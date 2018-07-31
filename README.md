@@ -1,4 +1,4 @@
-# IEEE PHM 2012 Data Challenge
+# IEEE PHM 2012 Data Challenge Dataset
 
 This is a dataset that was used for the IEEE PHM 2012 Data Challenge. It used to be online at http://www.femto-st.fr/en/Research-departments/AS2M/Research-groups/PHM/IEEE-PHM-2012-Data-challenge.php, but isn't anymore.
 
@@ -6,9 +6,9 @@ The set contains a training set of 6 rolling bearings that were operated in thre
 
 ## License
 
-I don't know if there was any license to this, but always cite using below citation. There is a BibTeX entry in the PDF file.
+The dataset was up for anyone to download for almost six years, which leads me to believe it should still be available. Cite this dataset whenever you use it with below citation though!
 
 ## Citation
 
-Nectoux, P., Gouriveau, R., Medjaher, K., Ramasso, E., Chebel-Morello, B., Zerhouni, N., … Varnier, C. (2012). PRONOSTIA : An experimental platform for bearings accelerated degradation tests. In IEEE International Conference on Prognostics and Health Management (pp. 1–8). Denver.
+Patrick Nectoux, Rafael Gouriveau, Kamal Medjaher, Emmanuel Ramasso, Brigitte Morello, Nourredine Zerhouni, Christophe Varnier. *PRONOSTIA: An Experimental Platform for Bearings Accelarated Life Test.* IEEE International Conference on Prognostics and Health Management, Denver, CO, USA, 2012.
 
